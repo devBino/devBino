@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @devBino
 - 👀 I’m interested in Clean Code, Design Patterns and Restful Apis and Automated Tests
 - 🌱 I’m currently building a JUnit & RestAssured project => https://github.com/devBino/study_junit_plus_restassured/tree/release/1.0.0
-- 📫 How to reach me is very simple, just send an e-mail to programemachado@gmail.com, or see my linkedin profile https://www.linkedin.com/in/fernando-bino-machado-6a8870177/
+- 📫 How to reach me is very simple, see my linkedin profile https://www.linkedin.com/in/fernando-bino-machado-6a8870177/
