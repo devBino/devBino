@@ -1,23 +1,20 @@
-### Olá, Eu sou Fernando Bino Machado. 👋
+## Olá, Eu sou Fernando Bino Machado. 👋
 
-<hr/>
+### Redes
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fernandobinomachado3876)
 [![Site no Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://fernando-bino-machado.my.canva.site/)
 
-<hr/>
+### Estatísticas sobre minhas contribuições
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devBino&show_icons=true&theme=dracula)
 
-<hr/>
+### Principais Linguagens Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devBino&hide_progress=true)
 
-<hr/>
-
-
-## Tecnologias no Portfólio
+### Tecnologias no Portfólio
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black">
@@ -38,5 +35,5 @@
 
 <br/>
 
-## Currículo
+## Meu Currículo
 - 📫 https://github.com/devBino/cv/blob/master/README.md
