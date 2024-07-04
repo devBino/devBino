@@ -14,7 +14,7 @@ Comecei a programar em 2013, tendo acumulado mais de 10 anos de experiência em 
 Atuamente sou desenvolvedor Sênior, e trabalho com Java. Não estou interessado apenas na promação de um software. Hoje, dou apoio técnico a equipe da qual faço parte, além de já ter revisado o código de outros desenvolvedores. 
 Me preocupo com a qualidade e padrão do código, por isso considero as boas práticas de programação e Padrões de Projeto.
 
-Além disso, estou interessado em CICD, tenho projetos no meu github onde configurei pipelines que terminam no deploy bem sucedido da aplicações, refletindo as novas features em um ambiente de maneira instantânea, otimizando meu tempo.
+Além disso, estou interessado em CICD, tenho projetos em Java e Spring no meu GitHub onde configurei pipelines que terminam no deploy bem sucedido da aplicações, refletindo as novas features em um ambiente de maneira instantânea, otimizando meu tempo.
 
 Para completar, as features não podem subir de qualquer jeito. Por isso, busco aplicar Gitflow durante versionamento dos meus projetos, respeitando a hierarquia de trabalho entre main(master), releases e develop, e só então as features enpacotadas por releases.
 </p>
