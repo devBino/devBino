@@ -9,7 +9,7 @@
 ### Estatísticas sobre minhas contribuições e Principais Linguagens
 
 <div style="display: inline_block"><br/>
-    <img align="center" height="180em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=devBino&include_all_commits=true&count_private=true&theme=dracula">
+    <img align="center" height="180em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=devBino&include_all_commits=true&count_private=true&theme=dracula&show_icons=true">
     <img align="center" height="180em" alt="Linguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBino&hide_progress=true&theme=dracula">
 </div>
 
