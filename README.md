@@ -8,6 +8,14 @@
 
 ### Estatísticas sobre minhas contribuições e Principais Linguagens
 
+<hr/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devBino&show_icons=true&theme=dracula&include_all_commits=true)
+
+<hr/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devBino&hide_progress=true)
+
 <div style="display: inline_block"><br/>
     <img align="center" height="180em" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=devBino&show_icons=true&theme=dracula&include_all_commits=true">
     <img align="center" height="180em" alt="Linguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBino&hide_progress=true&theme=dracula">
