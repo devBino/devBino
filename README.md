@@ -8,11 +8,10 @@
 
 ### Estatísticas sobre minhas contribuições
 
+<div style="display: inline_block"><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devBino&show_icons=true&theme=dracula)
-
-### Principais Linguagens Usadas
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devBino&hide_progress=true&theme=dracula)
+</div>
 
 ### Tecnologias no Portfólio
 
