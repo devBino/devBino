@@ -6,11 +6,11 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fernandobinomachado3876)
 [![Site no Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://fernando-bino-machado.my.canva.site/)
 
-### Estatísticas sobre minhas contribuições
+### Estatísticas sobre minhas contribuições e Principais Linguagens
 
 <div style="display: inline_block"><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devBino&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devBino&hide_progress=true&theme=dracula)
+    <img align="center" alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=devBino&show_icons=true&theme=dracula">
+    <img align="center" alt="Linguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBino&hide_progress=true&theme=dracula">
 </div>
 
 ### Tecnologias no Portfólio
