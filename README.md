@@ -21,7 +21,7 @@ Para completar, as features não podem subir de qualquer jeito. Por isso, busco 
 
 ### Estatísticas sobre minhas contribuições e Principais Linguagens
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devBino&include_all_commits&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devBino&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devBino&theme=dracula&hide=html,blade,Jupyter%20Notebook,Less,Css,ejs,hack,roff,shell)](https://github.com/anuraghazra/github-readme-stats)
 
