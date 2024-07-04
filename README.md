@@ -12,7 +12,7 @@
 
 ### Principais Linguagens Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devBino&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devBino&hide_progress=true&theme=dracula)
 
 ### Tecnologias no Portfólio
 
