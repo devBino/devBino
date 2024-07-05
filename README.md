@@ -1,12 +1,12 @@
 ## Olá, Eu sou Fernando Bino Machado. 👋
 
-### Minhas Redes Sociais
+## Minhas Redes Sociais
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fernandobinomachado3876)
 [![Site no Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://fernando-bino-machado.my.canva.site/)
 
-### Sobre
+## Sobre Mim
 
 <p style="text-align: justify;">
 Comecei a programar em 2013, tendo acumulado mais de 10 anos de experiência em desenvolvimento de software. Já trabalhei com tecnologias como VBA, C#, PHP, JavaScript e Python.
@@ -19,14 +19,14 @@ Além disso, estou interessado em CICD, tenho projetos em Java e Spring no meu G
 Para completar, as features não podem subir de qualquer jeito. Por isso, busco aplicar Gitflow durante o versionamento dos meus projetos, respeitando a hierarquia de trabalho entre main(master), releases e develop, e só então as features enpacotadas por releases.
 </p>
 
-### Estatísticas sobre minhas contribuições e Principais Linguagens
+## Estatísticas sobre minhas contribuições e Principais Linguagens
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devBino&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devBino&theme=dracula&hide=html,blade,Jupyter%20Notebook,Less,Css,ejs,hack,roff,shell,Dockerfile)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Tecnologias no Portfólio
+## Tecnologias no Portfólio
 
 <div style="display: inline_block"><br/>
     <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -69,4 +69,5 @@ Para completar, as features não podem subir de qualquer jeito. Por isso, busco 
 <br/>
 
 ## Meu Currículo
+
 - 📫 https://github.com/devBino/cv/blob/master/README.md
