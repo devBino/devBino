@@ -10,26 +10,24 @@
 
 <p style="text-align: justify;">
 Comecei a programar em 2013, tendo acumulado mais de 10 anos de experiência em desenvolvimento de software. Já trabalhei com tecnologias como VBA, C#, PHP, JavaScript e Python.
+</p>
 
+<p style="text-align: justify;">
 Atuamente sou desenvolvedor Sênior, e trabalho com Java. Não estou interessado apenas na programação de um software. Hoje, dou apoio técnico a equipe da qual faço parte, além de já ter revisado o código de outros desenvolvedores. 
 Me preocupo com a qualidade e padrão do código, por isso considero as boas práticas de programação e Padrões de Projeto.
+</p>
 
+<p style="text-align: justify;">
 Além disso, estou interessado em CICD, tenho projetos em Java e Spring no meu GitHub onde configurei pipelines que terminam no deploy bem sucedido das aplicações, refletindo as novas features no ambiente produtivo de maneira instantânea, otimizando meu tempo.
+</p>
 
+<p style="text-align: justify;">
 Para completar, as features não podem subir de qualquer jeito. Por isso, busco aplicar Gitflow durante o versionamento dos meus projetos, respeitando a hierarquia de trabalho entre main(master), releases e develop, e só então as features enpacotadas por releases.
 </p>
 
-## Importante! O que eu entendo por Portfólio no Github
 <p style="text-align: justify;">
-Um portfólio no Github deve ter projetos que mostrem que você domina a ideia macro sobre determinados conjuntos de tecnologias. Um exemplo, você não precisa deixar sua melhor ideia de maneira pública, de bandeija no Github.
-Github é uma amostra do que você é como desenvolvedor!! <br/><br/>
-Portanto, se com pequenos projetos você é capaz de executar uma ideia macro de maneira profissional, certamente você tem grandes projetos com a mesma ideia macro de maneira privada.
-Um exemplo é o meu projeto de uma simples calculadora (repositório api_calculos_spring), onde não só implemento os microsserviços preparados para Transactions seguras e Multi-Threading como me preocupei com CI/CD e pipelines 100% automatizados.
-E não é só isso, os workflows olham para secrets de uma VPS real, ou seja, após os pipelines serem dsparados, uma aplicação com Java Spring, MySql para Microsserviços e React no front será publicada em ambiente produtivo. <br/><br/>
-Observe que nesse caso, pouco importa o business do negocio, é uma simples calculadora no entanto tratada de maneira profissional e criativa. (E ainda está sujeita a code reviews e otimizações, sempre estara! Bem vindo ao mundo do software...)
-Agora, se pelo contrário, eu me preocupasse em clonar projetos do nubank, netflix, pokdex e afins, eu só vou mostrar aqui que sou bom em copiar.
+Por fim, meu objetivo é usar o github para projetos simples que mostrem a ideia macro por trás das tecnologias, a mesma ideia macro nos projetos simples eu aplico em projetos mais complexos no nível privado.
 </p>
-
 
 ## Estatísticas sobre minhas contribuições e Principais Linguagens
 
