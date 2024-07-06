@@ -19,6 +19,18 @@ Além disso, estou interessado em CICD, tenho projetos em Java e Spring no meu G
 Para completar, as features não podem subir de qualquer jeito. Por isso, busco aplicar Gitflow durante o versionamento dos meus projetos, respeitando a hierarquia de trabalho entre main(master), releases e develop, e só então as features enpacotadas por releases.
 </p>
 
+## Importante! O que eu entendo por Portfólio no Github
+<p style="text-align: justify;">
+Um portfólio no Github deve ter projetos que mostrem que você domina a ideia macro sobre determinados conjuntos de tecnologias. Um exemplo, você não precisa deixar sua melhor ideia de maneira pública, de bandeija no Github.
+Github é uma amostra do que você é como desenvolvedor!! <br/>
+Portanto, se com pequenos projetos você é capaz de executar uma ideia macro de maneira profissional, certamente você tem grandes projetos com a mesma ideia macro de maneira privada.
+Um exemplo é o meu projeto de uma simples calculadora (repositório api_calculos_spring), onde não só implemento os microsserviços preparados para Transactions seguras e Multi-Threading como me preocupei com CI/CD e pipelines 100% automatizados.
+E não é só isso, os workflows olham para secrets de uma VPS real, ou seja, após os pipelines serem dsparados, uma aplicação com Java Spring, MySql para Microsserviços e React no front será publicada em ambiente produtivo. <br/>
+Observe que nesse caso, pouco importa o business do negocio, é uma simples calculadora no entanto tratada de maneira profissional e criativa. (E ainda está sujeita a code reviews e otimizações, sempre estara! Bem vindo ao mundo do software...)
+Agora, se pelo contrário, se eu me preocupasse em clonar projetos do nubank, netflix, pokdex e afins, eu só vou mostrar aqui que sou bom em copiar.
+</p>
+
+
 ## Estatísticas sobre minhas contribuições e Principais Linguagens
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devBino&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
