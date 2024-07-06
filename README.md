@@ -83,3 +83,11 @@ Agora, se pelo contrário, eu me preocupasse em clonar projetos do nubank, netfl
 ## Meu Currículo
 
 - 📫 https://github.com/devBino/cv/blob/master/README.md
+
+## Gostaria de lhe convidar a conhecer meu eBook
+
+<center>
+<a href="https://go.hotmart.com/O93625486X" style="color: #f1f1f1; background: green; padding: 10px; border: 2px solid #696969; border-radius:10px; font-weight:bold;" target="_blank">Quero conhecer o eBook</a>
+</center>
+
+<img alt="Meu eBook" src="https://static-media.hotmart.com/k6VG3zXJ1YOpMYjI1CDMn1E49_E=/filters:quality(100):format(webp)/klickart-prod/uploads/media/file/7970275/capa_ebook_devs_iniciantes.png">
