@@ -27,7 +27,7 @@ Portanto, se com pequenos projetos você é capaz de executar uma ideia macro de
 Um exemplo é o meu projeto de uma simples calculadora (repositório api_calculos_spring), onde não só implemento os microsserviços preparados para Transactions seguras e Multi-Threading como me preocupei com CI/CD e pipelines 100% automatizados.
 E não é só isso, os workflows olham para secrets de uma VPS real, ou seja, após os pipelines serem dsparados, uma aplicação com Java Spring, MySql para Microsserviços e React no front será publicada em ambiente produtivo. <br/>
 Observe que nesse caso, pouco importa o business do negocio, é uma simples calculadora no entanto tratada de maneira profissional e criativa. (E ainda está sujeita a code reviews e otimizações, sempre estara! Bem vindo ao mundo do software...)
-Agora, se pelo contrário, se eu me preocupasse em clonar projetos do nubank, netflix, pokdex e afins, eu só vou mostrar aqui que sou bom em copiar.
+Agora, se pelo contrário, eu me preocupasse em clonar projetos do nubank, netflix, pokdex e afins, eu só vou mostrar aqui que sou bom em copiar.
 </p>
 
 
