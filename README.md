@@ -22,7 +22,7 @@ Além disso, estou interessado em CICD, tenho projetos em Java e Spring no meu G
 </p>
 
 <p style="text-align: justify;">
-Para completar, as features não podem subir de qualquer jeito. Por isso, busco aplicar Gitflow durante o versionamento dos meus projetos, respeitando a hierarquia de trabalho entre main(master), releases e develop, e só então as features enpacotadas por releases.
+Para completar, as features não podem subir de qualquer jeito. Por isso, busco aplicar Gitflow durante o versionamento dos meus projetos, respeitando a hierarquia de trabalho entre main(master), releases e develop, e só então as features empacotadas por releases.
 </p>
 
 <p style="text-align: justify;">
