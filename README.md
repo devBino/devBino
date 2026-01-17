@@ -1,7 +1,5 @@
 ## Olá, Eu sou Fernando Bino Machado. 👋
 
-## Sobre Mim
-
 <p style="text-align: justify;">
 Comecei a programar em 2013, tendo acumulado mais de 10 anos de experiência em desenvolvimento de software. Já trabalhei com tecnologias como VBA, C#, PHP, JavaScript e Python.
 </p>
