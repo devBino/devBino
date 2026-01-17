@@ -81,9 +81,9 @@ Por fim, meu objetivo é usar o github para projetos simples que mostrem a ideia
 
 - 📫 https://github.com/devBino/cv/blob/master/README.md
 
-## Gostaria de lhe convidar a conhecer meu eBook
 
 <!-- <center>
+
 <a href="https://go.hotmart.com/O93625486X" style="color: #f1f1f1; background: green; padding: 10px; border: 2px solid #696969; border-radius:10px; font-weight:bold;" target="_blank">Quero conhecer o eBook</a>
 </center>
 
